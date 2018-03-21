@@ -23,7 +23,9 @@ namespace RacingWebApp.Tests.Controllers
             
             //Test Change
             if (1 == 1)
-            { }
+            {
+
+            }
 
             // Assert
             
