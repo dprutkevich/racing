@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RacingWebApp", "RacingWebApp\RacingWebApp.csproj", "{DE66059A-01AB-487C-B1AA-B326C1DE7A47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RacingWebApp.Tests", "RacingWebApp.Tests\RacingWebApp.Tests.csproj", "{451E00CC-6FB1-4505-B0D8-DB8F337545B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE66059A-01AB-487C-B1AA-B326C1DE7A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE66059A-01AB-487C-B1AA-B326C1DE7A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE66059A-01AB-487C-B1AA-B326C1DE7A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE66059A-01AB-487C-B1AA-B326C1DE7A47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{451E00CC-6FB1-4505-B0D8-DB8F337545B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451E00CC-6FB1-4505-B0D8-DB8F337545B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451E00CC-6FB1-4505-B0D8-DB8F337545B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451E00CC-6FB1-4505-B0D8-DB8F337545B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
