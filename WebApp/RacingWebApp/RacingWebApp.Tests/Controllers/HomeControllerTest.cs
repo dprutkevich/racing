@@ -20,8 +20,15 @@ namespace RacingWebApp.Tests.Controllers
 
             // Act
             ViewResult result = controller.Index() as ViewResult;
+            
+            //Test Change
+            if (1 == 1)
+            {
+
+            }
 
             // Assert
+            
             Assert.IsNotNull(result);
         }
 
